@@ -1,2 +1,2 @@
 def hello_world():
-    # напишите свой код вместо этой строки
+    return "Hello world"
